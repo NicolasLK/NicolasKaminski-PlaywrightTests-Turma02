@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { PlaywrightTestConfig } from '@playwright/test';
 
 const config: PlaywrightTestConfig = {
